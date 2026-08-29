@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class VowelConsonantCounter {
+public class countVowelsAndConsonants {
 
-    static void countVowelsAndConsonants(String text) {
+    static void (String text) {
 
         int vowels = 0;
         int consonants = 0;
